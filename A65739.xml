@@ -1,0 +1,346 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections on a scandalous paper, entituled, The answer of the East-India-Company to two printed papers of Mr. Samuel White together with the true character of Francis Davenport the said Company's historyographer, detecting some of the villanies he has been guilty of in several parts of the world, and proving the pamphlet now publish'd by the foresaid company in his name to be a malicious forgery, under attestations of sundry credible persons, humbly presented to the Honourable the Knights, citizens, and burgesses in Parliaments assembled / by George White.</title>
+            <author>White, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65739</idno>
+            <idno type="STC">Wing W1770</idno>
+            <idno type="STC">ESTC R8845</idno>
+            <idno type="EEBO-CITATION">11983631</idno>
+            <idno type="OCLC">ocm 11983631</idno>
+            <idno type="VID">51910</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51910)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 523:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections on a scandalous paper, entituled, The answer of the East-India-Company to two printed papers of Mr. Samuel White together with the true character of Francis Davenport the said Company's historyographer, detecting some of the villanies he has been guilty of in several parts of the world, and proving the pamphlet now publish'd by the foresaid company in his name to be a malicious forgery, under attestations of sundry credible persons, humbly presented to the Honourable the Knights, citizens, and burgesses in Parliaments assembled / by George White.</title>
+                  <author>White, George.</author>
+                  <author>White, Samuel, ca. 1650-1689.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Davenport, Francis, --  Historiographer.</term>
+               <term>East India Company. --  To The Right honorable Parliament : the answer of the East India-company to two printed papers of Mr. Samuel White.</term>
+               <term>East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51910:1"/>
+            <p>REFLECTIONS On a Scandalous PAPER, ENTITULED THE ANSWER OF THE Eaſt-India-Company To Two Printed PAPERS of M<hi rend="sup">R.</hi> SAMUEL WHITE: Together with the True CHARACTER of <hi>FRANCIS DAVENPORT</hi> THE SAID <hi>Company's Hiſtoryographer.</hi>
+            </p>
+            <p>Detecting ſome of the <hi>Villanies</hi> he has been Guilty of in ſeveral parts of the WORLD; and proving the <hi>PAMPHLET</hi> now Publiſh'd by the foreſaid Company in his Name to be a <hi>Malicious Forgery,</hi> under Atteſtations of ſundry Credible Perſons.</p>
+            <p>Humbly Preſented to the Honourable The Knights, Citizens, and Burgeſſes in PARLIAMENT ASSEMBLED.</p>
+            <p>By GEORGE <hi>WHITE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, M.DC.LXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="analysis">
+            <pb facs="tcp:51910:2"/>
+            <pb n="3" facs="tcp:51910:2"/>
+            <p>SInce the <hi>Profligate Age</hi> we Live in do's daily produce new Prodigies of <hi>Villany,</hi> 'tis no very ſtrange thing to ſee thoſe <hi>Criminals</hi> who are Guilty of <hi>Murder, Rapine,</hi> and <hi>Ingratitude,</hi> have recourſe to PERJURY for Protection: And therefore I was the leſs ſurpriz'd when at my return from diſcharging the laſt Offices of Kindneſs to my Deceaſed Brother, I perus'd a Paper, Entituled <hi>An Hiſtorical Abſtract of Mr.</hi> Samuel White, <hi>his Management of Affairs,</hi> &amp;c. <hi>by</hi> Francis Davenport: But that ſuch an <hi>Infamous Forgery</hi> ſhou'd be brought forth by the <hi>Mid<g ref="char:EOLhyphen"/>wifry of the Eaſt-India-Company,</hi> and uſher'd into the World by a Sheet which is pretended to be <hi>an Anſwer to my Brother's Complaints;</hi> and both theſe preſented to the <hi>Honourable Houſe of Commons,</hi> is ſuch an Amazing Inſolence, that no Mankind of a leſs Aſſurance than <hi>He</hi> who has Veſted himſelf with <hi>Deſpotic Power,</hi> cou'd dare to be the <hi>Author</hi> of the One, or the <hi>Editor</hi> of the Other.</p>
+            <p>As to that little Matter in the <hi>Prologue,</hi> which is pointed directly againſt my Brother, by way of Introduction to the following <hi>Fictions,</hi> I will not waſte any time in offering a word of Anſwer to it here, but leave his Juſt Cauſe ſecur'd by the Safe-guard of Truth, from the fierceſt and moſt ſubtile Aſſaults can be made againſt it by all the Malice of Hell: And I enter up<g ref="char:EOLhyphen"/>on the Engagement with this Condition, That if I do not make good Proof of every Article, as 'tis laid down in the State of his Caſe, when the <hi>Parliament</hi> ſhall pleaſe to grant me a Hearing; and if now, in the in<g ref="char:EOLhyphen"/>terim, I do not by a Cloud of unexceptionable Witneſſes manifeſt to the World, That this <hi>Vile Wretch</hi> DAVENPORT, on whoſe Evidence the Com<g ref="char:EOLhyphen"/>pany have ſo much Dependance, is one of the <hi>moſt Notorious Rogues in Nature,</hi> and ſo eſteem'd by all Honeſt Men that ever had the unhappineſs to have been Concern'd or Acquainted with him; and more particularly that he forg'd this Malicious Story to wreck his Revenge on my Brother for Chaſtizing him according to his Demerits: Wherein he was alſo En<g ref="char:EOLhyphen"/>courag'd by <hi>Elihu Yale</hi> at <hi>Madraſs,</hi> in hopes that by thus Black'ning my <hi>Brother's Reputation,</hi> 'twould help to take off the force of his Evidence againſt the ſaid <hi>Yale,</hi> for his Treacherous Dealings with the <hi>King</hi> of <hi>Siam</hi> in a parcel of Jewels: And Laſtly, If I make it not appear that my <hi>Brother,</hi> who has been ſo <hi>Barbarouſly Abus'd</hi> and <hi>Injur'd,</hi> has not only never deſerv'd Ill of the <hi>King, Nation,</hi> or <hi>Company,</hi> but contrarily, that he did always expreſs himſelf both in Word and Deed a moſt Obedient Sub<g ref="char:EOLhyphen"/>ject to the Government. That he was a <hi>True Lover of his Country,</hi> and did in his Station maintain and promote the Honour of it: And that he did not only always bear a due Reſpect to the <hi>Eaſt-India-Company,</hi> but particu<g ref="char:EOLhyphen"/>larly did with that extraordinary Zeal and Kindneſs give Relief to their Ship the <hi>Golden-Fleece</hi> in her Diſtreſs; and ſo was the Inſtrument of Preſerving 190000 <abbr>
+                  <hi>l.</hi>
+               </abbr> of their Eſtate, which could not but have extorted ſome grate<g ref="char:EOLhyphen"/>ful Acknowledgments from all Mankind, but thoſe who upon aſſuming a <hi>Deſpotic-Power</hi> have diveſted themſelves of <hi>Humanity.</hi> I ſay, If I make not out a full and plain Evidence of all theſe things, I will readily ſubmit that the Remains of my <hi>Brother</hi>'s Eſtate ſhall follow the Fate of the greater
+<pb n="4" facs="tcp:51910:3"/>part, and be entirely <hi>Devour'd by the Company.</hi> As on the other ſide, If I do clear the Truth from all theſe Clouds wherewith the <hi>Agents of the Father of Lies</hi> have endeavour'd to obſcure and ſmother it, I cannot doubt that all thoſe concern'd in the Management of the Company's Affairs, who are but endu'd with the <hi>Grace of Common Honeſty,</hi> will readily encline to make due Reſtitution of what has been ſo unjuſtly taken from him. And as for the <hi>Author, with thoſe who enjoy their Places on condition that their Conſciences are at his Command,</hi> I humbly depend on the <hi>Parliament</hi> to Convince them by ſuch Arguments, as ſhall to the great Wiſdom of the <hi>Honourable Houſe</hi> ſeem moſt proper for the Occaſion.</p>
+            <p>AS to the great ſhew the <hi>Author</hi> has made of his <hi>Parts and Principles</hi> in ſundry Paragraphs of this that he calls <hi>The Company's Anſwer,</hi> tho' 'tis Foreign to my preſent Buſineſs, yet I cannot paſs over ſuch <hi>Incongruous Stuff</hi> without ſome brief <hi>Remarks:</hi> And I ſeriouſly proteſt it aſtoniſhes me to ſee to what <hi>Prodigious Extravagancies</hi> the ſucceſs of ſome former bold Actions can Tranſport an <hi>Ambitious and Inſulting Temper.</hi> For who could think, That a Subject of <hi>England</hi> ſhou'd dare to Abuſe the <hi>Parliament</hi> as he has done, with ſuch <hi>ſlight Sophiſtry</hi> as wou'd be Ridiculous amongſt <hi>School-Boys,</hi> framing Diſguiſes for his <hi>Evil Actions</hi> by moſt <hi>fallacious Arguments and In<g ref="char:EOLhyphen"/>ferences;</hi> and where he cou'd not ſo ſerve the Turn, he imitates <hi>His Friend Davenport</hi> in Aſſertions that are moſt <hi>falſe, groundleſs, and ſcandalous.</hi>
+            </p>
+            <p>Theſe are ſuch Affronts and Indignities to the Wiſdom of the Nation, that ſpeaks the AUTHOR to be an <hi>Old</hi> OFFENDER, who having paſs'd with impunity through a long Courſe of Tranſgreſſions, is harden'd into a <hi>Conceipt,</hi> that he is above the reach of the <hi>Legiſlative-Power of the Kingdom:</hi> I ſhall now only give a hint of 'em in the following Curſory Notices.</p>
+            <p>HE ſays, <hi>The ground of the Company's Wars with</hi> Siam <hi>was not only Juſt but Cogent,</hi> and offers to prove it by a larger Narrative, which I am reſolv'd to provoke him to produce to the Publick; for I tell him before<g ref="char:EOLhyphen"/>hand, that I have by me a full and true Account of that <hi>Wicked Thing,</hi> which was intended to have been Addreſs'd to the <hi>Parliament</hi> by my Brother, and ſhall be very ſuddenly preſented by me in his Name.</p>
+            <p>The next is a <hi>Fling at my Lord Phaulkon,</hi> and all that his Impotent Malice cou'd dictate to diſparage and leſſen him, is to ſay, <hi>He was a poor Fellow, and Steward's Mate of a ſmall Ship,</hi> which I readily own to be true; and I doubt not but all Ingenious Men will the more eſteem and honour him, who from ſo ſmall a beginning, has meerly by his own Merits rais'd himſelf to be <hi>Lord-High-Steward of a great Kingdom;</hi> nor is he leſs Advanc'd in <hi>Opulency</hi> than <hi>Power and Dignity:</hi> For I'm ſure if our <hi>Author's Eſtate (as Bulky as 'tis)</hi> were to be compar'd with what his Lordſhip is now poſſeſt of, 'twould look like <hi>a Little Child to a great Man.</hi>
+            </p>
+            <p>'Tis a notable <hi>Slight of Hand</hi> our <hi>Author</hi> uſes to cover over the Trayte<g ref="char:EOLhyphen"/>rous Preſumption of his <hi>new-made-General,</hi> in aſcribing to himſelf <hi>Deſpotic Power and Soveraign-Authority,</hi> by ſaying my <hi>Brother</hi> do's in his Caſe <hi>play with thoſe Expreſſions:</hi> And 'tis well if he can be ſo eaſily brought off from that Charge, which my Counſel tells me is very little leſs than <hi>High Trea<g ref="char:EOLhyphen"/>ſon.</hi> But I muſt confeſs our <hi>Author</hi> is bound to uſe all his Art and Cunning
+<pb n="5" facs="tcp:51910:3"/>to Extricate his <hi>Creature</hi> out of that Snare, becauſe I believe 'twill be prov'd he led him into't; and I ſee he is ſtill <hi>ſo full of the Humour,</hi> that he cannot forbear even in this Paper he preſents to the <hi>Parliament;</hi> for here he has got a new Phraſe for the <hi>Company's Servants,</hi> and calls them the <hi>Company's Subjects under the King,</hi> which is another <hi>bold Stroke;</hi> and indeed I cou'd wiſh he wou'd in time conſider and refrain theſe <hi>Ambitious Exorbitancies,</hi> leſt the <hi>True Sovereign Authority</hi> ſhou'd be at length provok'd to Convince him of his <hi>Error,</hi> as King <hi>Edward</hi> the Fourth did the Citizen that Liv'd at the <hi>Crown</hi> in <hi>Cheapſide,</hi> for much ſuch another Crime: And then alas! what wou'd become of <hi>Our Eaſt-India-Company,</hi> if he were <hi>ſo Tyed up</hi> from Managing their Affairs.</p>
+            <p>He next tells us, <hi>He believes the Company have in Seven or Eight Years paſt, done more for the</hi> Publick Good and Honour of the Nation, <hi>than all their Predeceſſors ſince</hi> Queen Elizabeth's <hi>time;</hi> and he gives One or Two Inſtances to prove it, which are worthy Examination.</p>
+            <p>The firſt is their Faithful Defence of the <hi>Engliſh Intereſt</hi> in the Caſe of <hi>Bantam,</hi> againſt Eminent <hi>Dutch Civilians;</hi> and he refers to the Arguments on that Occaſion, that are extant in Print, which I have read; and if I may be ſo bold to give my Opinion of that little Book, I muſt ſay, That the AUTHOR has in the three or four firſt Lines, and ſome other places, diſ<g ref="char:EOLhyphen"/>charg'd whole <hi>Volleys of Verboſity</hi> upon the <hi>Batavian</hi>'s, but did no more Ex<g ref="char:EOLhyphen"/>ecution than the BOUNCE OF A CHILDISH POP-GUN: And the Truth is, that inſtead of Meriting by their Endeavours to defend, <hi>Our Com<g ref="char:EOLhyphen"/>pany</hi> are much to be blam'd for their groſs <hi>Neglects</hi> and <hi>Miſmanagements,</hi> which gave the <hi>Dutch</hi> an opportunity to accompliſh that Deſign.</p>
+            <p>Another <hi>Good Work</hi> he attributes to the <hi>Company,</hi> is what he calls the <hi>Reducing the Rebels at</hi> Bombay <hi>and St.</hi> Helena. As to the firſt of thoſe Places I am a ſtranger to the Merits of the Cauſe; but at St. <hi>Helena</hi> the buſineſs was briefly and truly thus; <hi>Robert Holden</hi> the <hi>Deputy-Governor,</hi> had been order'd by SOME-BODY to begin the ſetting up a <hi>New Sovereignty</hi> there in the Name of the <hi>Company;</hi> telling the Inhabitants they were no more the <hi>King's, but the Company's Subjects,</hi> which they apprehending to be <hi>Dangerous and Treaſonable Words,</hi> one of them complain'd of Him to <hi>Major Blackmore the Governor,</hi> who being in the ſame Intereſts, took part with <hi>Holden,</hi> and Impriſoned the <hi>Accuſer;</hi> at which all the People there were much concern'd, and made Application to him to ſecure the ſaid <hi>Holden,</hi> and ſet the other at Liberty, who was ſo cauſeleſly Confin'd; whereto he gave Anſwer, by cauſing two great Guns to be fir'd, which kill'd Three and wounded Fourteen; and Three Months after he did by his <hi>Own Autho<g ref="char:EOLhyphen"/>rity Judge, Condemn, and Hang Two more,</hi> ſending an Account of his Pro<g ref="char:EOLhyphen"/>ceedings to <hi>His Maſters</hi> here, and ONE of them who had great Influences at Court, procur'd a <hi>Commiſſion</hi> from the late King to Try ſeveral others by a <hi>Court-Marſhal,</hi> whereby five more loſt their Lives. AND ALL THIS FOR THE PUBLICK GOOD AND HONOUR OF THE NATION.</p>
+            <p>Another of our <hi>Company's Famous Actions,</hi> he reckons to be <hi>the Wars they have made with the</hi> Great Mogul <hi>and King of</hi> Siam; of the latter, whereof, I have promis'd an Account ſhall ſuddenly be made Publick; and will only here by the way, Charge the <hi>Author with a direct Falſity in af<g ref="char:EOLhyphen"/>firming his Ingenious Capt.</hi> Andrews, <hi>had his Majeſties Commiſſion under the
+<pb n="6" facs="tcp:51910:4"/>Great Seal of</hi> England, <hi>to War againſt that Prince.</hi> And as to the Violences they have acted on the <hi>Great Mogul's Subjects,</hi> I confeſs I cou'd never yet hear what pretences they have for't; but I know their Proceedings there<g ref="char:EOLhyphen"/>in do more deſerve to be term'd <hi>Fellonious</hi> than <hi>Hoſtile:</hi> For beſides the vaſt Sums they were indebted to the Merchants at <hi>Surrat,</hi> when they left that place; they did alſo make uſe of another Stratagem to aſſiſt the Succeſs of their intended <hi>Force</hi> by a <hi>Baſe Fraud:</hi> For their <hi>New-Made-General</hi> gave the foreſaid Merchants Encouragement to Adventure their Ships and Eſtates to to Sea, on the Security of the <hi>Company's Paſſes,</hi> and afterwards took the opportunity to make Prize of thoſe very Effects: Which was ſuch <hi>a Breach of Faith,</hi> that a <hi>Barbarian</hi> wou'd bluſh at it. And becauſe I may therefore ſuppoſe the Report of ſo <hi>Black an Action</hi> will not readily be Credited, I de<g ref="char:EOLhyphen"/>clare that I can, and will, if it be needful, produce a Gentleman of un<g ref="char:EOLhyphen"/>queſtion'd Credit to Teſtifie, That he had the Account of it from ONE that do's not only know as much of thoſe Affairs as our AUTHOR can pretend to; but if I am not very much miſtaken, is in all reſpects as like him <hi>as any thing can poſſibly be to its own Self:</hi> And when he told my Friend the <hi>Pleaſant Story,</hi> He cou'd not but Applaud the <hi>Policy,</hi> and declare the great Satisfaction he had in the Succeſs thereof, as he now in this Pa<g ref="char:EOLhyphen"/>per calls it GOD's WONDERFUL BLESSING TO THEIR JUST ARMS.</p>
+            <p>Our AUTHOR has two or three very ſtrenous Arguments to <hi>Inſinuate,</hi> That 'tis indiſpenſably requiſite the <hi>Company</hi> ſhou'd have an <hi>Alſolute Power</hi> over the <hi>Lives and Eſtates</hi> of their Fellow-Subjects in the <hi>Indies.</hi> And firſt he ſays, <hi>For that they have ſo many Towns, Forts, and Garriſons;</hi> which <hi>ma<g ref="char:EOLhyphen"/>ny Towns</hi> (beſides the little Iſland of <hi>Bombay</hi>) is no more than <hi>One,</hi> that I ever yet knew or heard of, and that is call'd <hi>Madraſs,</hi> in the Kingdom of <hi>Golcondah,</hi> which yet is not altogether their own neither, for they pay an <hi>Annual Rent</hi> to the King of that Country for it.</p>
+            <p>Next he reckons the infinite Charge they are at, in ſundry Particulars, and amongſt them he mentions the <hi>Demorage of Ships,</hi> which by the way I muſt tell him wou'd be very inconſiderable, if our Trade were Prudently and Regularly Manag'd. But however, they have lately found out an Ex<g ref="char:EOLhyphen"/>pedient to alleviate that Charge, by keeping the Ships ſo long abroad, that renders them incapable to return; and ſo both <hi>Freight and Demorage</hi> are diſcharg'd without paying a Farthing, as they have already done to three or four Ships; and ſeveral more that are now in <hi>India</hi> are much doubted to be in the ſame Condition; whereby a very great <hi>Injury and In<g ref="char:EOLhyphen"/>juſtice is</hi> done to the Nation in general, as well as to the particular Proprie<g ref="char:EOLhyphen"/>tors. But all this is eaſily wip'd off by an <hi>Ingenious Contrivance,</hi> as was late<g ref="char:EOLhyphen"/>ly done at the Arrival of the <hi>Modena,</hi> in putting a piece of News into the <hi>Gazette,</hi> and Dating it from the <hi>Downs,</hi> to tell us, THE WORMS DO VERY MUCH DESTROY SHIPPING IN THAT COUNTRY.</p>
+            <p>The laſt and moſt invincible Argument of this kind, I will lay down juſt as 'tis in the AUTHOR's PAPER, and try if I can frame it into a <hi>Sillogiſm.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:51910:4"/>
+☞ <hi>The Company hope, all Gentlemen know, That the Governments of the Eaſtern Parts of the World, are meerly</hi> Deſpotical.</p>
+            <p>
+               <hi>But the never ſufficiently to be Admir'd and Belov'd Common and Statute Laws of this Kingdom, are Plants too Precious to be underſtood, or grow ſo far Eaſtward, or in any other Soil but that of our Bleſſed Native Country.</hi>
+            </p>
+            <p>Ergo, <hi>'Tis indiſpenſably neceſſary our Company ſhou'd have a</hi> Deſpotic Power <hi>over the Lives and Eſtates of all their Fellow-Subjects, That Ad<g ref="char:EOLhyphen"/>venture themſelves within the Territories of their Charter.</hi>
+            </p>
+            <p>The <hi>Major</hi> and <hi>Minor</hi> are the <hi>Author</hi>'s own Words; and the <hi>Concluſion</hi> is what I'm ſure he drives at: <hi>And is not this fit Logick to be impos'd on the Wiſdom of the</hi> PARLIAMENT.</p>
+            <p>As to thoſe SPLENDID ENCOMIUMS wherewith our AUTHOR do's beſpangle his NEW-MADE-GENERAL, I will only ſay thus much; Firſt, That he was in the beginning <hi>as Poor a Fellow as ever my Lord</hi> Phaulkon <hi>was,</hi> and had ſo continu'd to this day, had not the great Charity of an <hi>In<g ref="char:EOLhyphen"/>dulgent <g ref="char:V">Ʋ</g>ncle</hi> put him forward in the World: Then as to his GREAT PARTS and LITERATURE, I refer to his Papers in the <hi>Company's Regi<g ref="char:EOLhyphen"/>ſter</hi> to Teſtifie in his behalf. And Laſtly, As to the <hi>Great Eſteem</hi> he en<g ref="char:EOLhyphen"/>joys among the People of <hi>India,</hi> I beg leave to give an Inſtance of it, as 'twas told me by a Friend came lately from <hi>Surrat,</hi> who try'd to imitate the <hi>Banyan</hi>'s way of talking broken <hi>Engliſh,</hi> and expreſſing their Sen<g ref="char:EOLhyphen"/>timents of the GENERAL and his late HEROIC ACTIONS: But I muſt firſt take Notice, That when the <hi>Company</hi>'s <hi>Chief Factor</hi> at <hi>Surrat</hi> was call'd <hi>Preſident,</hi> they Saluted him with the Stile of HONOURABLE; but ſince the GENERALSHIP, 'tis mounted to HIS EXCELLENCY, which is ſo uncouth a Word to the <hi>Banians,</hi> that they loſe the two firſt Sylla<g ref="char:EOLhyphen"/>bles in the Pronunciation, ſaying Only, LENCY: And thus, as near as I can Copy after my Friend, they ſpeak their Opinions of the Difference 'twixt the paſt and preſent Demeanour of the <hi>Engliſh.</hi>
+            </p>
+            <p>When Honor have here, <hi>English-man</hi> very Good<g ref="char:EOLhyphen"/>man have, buy Good, Pay Money; <hi>Banian</hi> put Life in <hi>English-man</hi> hand: Now this 'LENCY come, DEVIL <hi>thing come,</hi> buy Good, run away, no pay Money, then War make, take Ship, take Good, kill Man, DEVIL thing this 'LENCY, this 'LENCY, DEVIL <hi>thing have.</hi>
+            </p>
+            <p>In this Extraordinary manner do the People there Celebrate the GE<g ref="char:EOLhyphen"/>NERAL's Praiſes, which the AUTHOR Interprets to us in plain <hi>Engliſh</hi> thus, <hi>He is a Perſon of</hi> KNOWN-SOBRIETY, WISDOM, TRUTH, <hi>and</hi> COURAGE, <hi>Eſteem'd and Belov'd by People of all Nations in</hi> India; <hi>That have ſo much Ingenuity, to Acknowledge Vertue in an Enemy</hi>—</p>
+            <p>
+               <pb n="8" facs="tcp:51910:5"/>
+And here, after this Demonſtration of that High Honour and Eſteem the GENERAL enjoys, or deſerves to enjoy amongſt the Natives, I muſt alſo be juſt to him, in acknowledging, that he has likewiſe merited much more than all his Predeceſſors ever did from his own Country-men, as may be prov'd by a Thouſand Inſtances like this One, wherewith I ſhall Conclude.</p>
+            <p>'Tis the Caſe of Captain <hi>Valentine Pines,</hi> whoſe Ship and Goods his EXCELLENCY did by his DESPOTIC POWER Seize and make Prize of, to amount of about 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and ſince the Captain has made a hard ſhift to get home on a <hi>Portugueze</hi> Ship; The <hi>Committee of the Eaſt-India-Company,</hi> have upon <hi>Mature</hi> and <hi>Conſciencious</hi> Deliberation thought it convenient to reſtore to him 1300 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Money, and promiſe to re<g ref="char:EOLhyphen"/>pay the reſt in FAVOURS. From whence I infer they are <hi>Conſcious</hi> to themſelves, that their GENERAL did in that Affair lay aſide his SO<g ref="char:EOLhyphen"/>BRIETY, WISDOM, <hi>and</hi> TRUTH, and was Acted by a Spirit of <hi>Baſe Revenge</hi> and <hi>Malice,</hi> which put him upon that moſt <hi>
+                  <g ref="char:V">Ʋ</g>njuſt</hi> and <hi>Illegal Seizure.</hi>
+            </p>
+            <p>I have thus run over that <hi>Scandalous</hi> and <hi>Impertinent Paper,</hi> and I ſhall now only add, That I am well aware who HE is, that under the Name of the <hi>Eaſt-India-Company</hi> Contends with me: As to his <hi>Original,</hi> if he was not altogether <hi>A very Poor Fellow,</hi> yet he was but at beſt a <hi>Very Ordinary Man,</hi> tho' he has ſince <hi>receiv'd all his Portion of Good Things in this Life,</hi> which has <hi>Stimulated</hi> his <hi>Ambition</hi> to that Extrava<g ref="char:EOLhyphen"/>gant Height, that he ſeems to <hi>look downward on the reſt of Mankind;</hi> nay, he has dar'd to aſſume a <hi>Sovereignty</hi> over his Fellow-Subjects, whoſe Lives and Eſtates he has <hi>Deſtroy'd,</hi> and <hi>Diſpos'd of</hi> at his Pleaſure; and raiſes his <hi>Own Family</hi> on the BLOOD and RUIN of his Neighbours. But tho' my Enemy be in all reſpects thus <hi>Formidable,</hi> yet I cannot fear; becauſe I have <hi>God, and the King, and the Laws, and all Honeſt Men of the Nation</hi> on my ſide: And under the Support and Aſſiſtance of theſe <hi>Ally's,</hi> I have Adventur'd to Engage with this GREAT GOLIAH.</p>
+         </div>
+         <div type="depositions">
+            <pb n="9" facs="tcp:51910:5"/>
+            <head>The True CHARACTER OF <hi>FRANCIS DAVENPORT</hi> THE EAST-INDIA <hi>Company's Hiſtoryographer.</hi>
+            </head>
+            <head type="sub">Detecting ſome of the <hi>Villanies</hi> he has been Guilty of in ſeveral parts of the WORLD; and proving the <hi>PAMPHLET</hi> now Publiſh'd by the foreſaid Company in his Name to be a <hi>Malicious Forgery,</hi> under Atteſtations of ſundry Credible Perſons, <hi>Viz.</hi>
+            </head>
+            <div type="deposition">
+               <head>The Depoſition of <hi>John Caſey</hi> Marriner.</head>
+               <p>
+                  <hi>JOHN CASEY</hi> Marriner, now Living in <hi>Ratcliff</hi> maketh Oath, That he was formerly acquainted with FRANCIS DAVENPORT at <hi>Boſton</hi> in <hi>New-England,</hi> who was there employ'd by one <hi>Peter Lee</hi> his Kinſman, as Maſter of a Ketch bound for <hi>Falmouth-Harbour</hi> on the Iſland of <hi>Antego;</hi> where this <hi>Deponent</hi> has heard they arriv'd, and diſpos'd of the major-part of their <hi>Cargo,</hi> and were bound from thence for St. <hi>John</hi>'s <hi>Harbour</hi> on the ſaid <hi>Iſland:</hi> But FRANCIS DAVENPORT did deſignedly miſs the ſaid <hi>Port,</hi> and went to the Iſland of <hi>Mevis,</hi> at which time the aforeſaid Owner, Mr. <hi>Peter Lee,</hi> being much indiſpos'd in his Health, went Aſhore; and FRANCIS DAVENPORT took the opportunity of his Abſence, to per<g ref="char:EOLhyphen"/>ſwade the Men to Arreſt the Veſſel for their Wages; while at the ſame time he pretended to the ſaid Owner (who was by his Sickneſs confin'd to his Bed) That he was much concern'd for that unworthy Action of the Marriners, and would manage the Cauſe in his behalf againſt them, if he pleas'd to confide in his Endeavours; which the ſaid Owner accordingly did, and left the Matter entirely to him; wherein he ſo acted, that the ſaid Veſſel was preſently condemn'd, and Sold by the ſaid DAVENPORT, who in two or three days Sail'd for <hi>England,</hi> without the knowledge of his Kinſ<g ref="char:EOLhyphen"/>man the Owner; who when he underſtood how treacherouſly he had been dealt with by him, was very much griev'd and dyed ſoon after.</p>
+               <p>This <hi>Deponent</hi> doth further Affirm, That the foreſaid FRANCIS DAVENPORT, was to his knowledge Marry'd at <hi>Boſton</hi> in <hi>New-England,</hi> where his Wife now is, or lately was Living: And the ſaid Deponent has heard by ſeveral credible Perſons, that the ſaid DAVENPORT did ſome Years ſince Marry another Wife at <hi>Bengall,</hi> in the <hi>Eaſt-Indie's;</hi> and that he has committed ſeveral perfidious Actions in thoſe Parts, and is accounted by all that know him, a very <hi>Treacherous Cheating</hi> VILLAIN.</p>
+               <closer>
+                  <signed>John Caſey.</signed> 
+                  <dateline>
+                     <date>
+                        <hi>Jur.</hi> 16. <hi>die</hi> Maij 1689.</date>
+                  </dateline>
+                  <signed> 
+                     <hi>Coram me Magr. Cancel. Jo. Edisbury.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <pb n="10" facs="tcp:51910:6"/>
+               <head>The <hi>Depoſition of</hi> George Taſh, <hi>of</hi> London <hi>Merchant.</hi>
+               </head>
+               <p>
+                  <hi>GEORGE TASH</hi> maketh Oath, That he Arrived at <hi>Tonqueen</hi> in the Ship <hi>Formoſa, Anno</hi> 1678. when he found FRANCIS DAVENPORT in the Factory, who had been (as he was inform'd) ſome<g ref="char:EOLhyphen"/>time before taken fom his Employment of Quarter-Maſter on board the Ship <hi>Eagle,</hi> to make a Crane for the King of <hi>Tonqueen,</hi> which he performed very Ingeniouſly, and the Chief and Factors being inclined to do him a kind<g ref="char:EOLhyphen"/>neſs, prefer'd him to be Gunner of the foreſaid Ship <hi>Formoſa,</hi> whereon he pro<g ref="char:EOLhyphen"/>ceeded to <hi>Bantam,</hi> being intruſted with Adventures by all the <hi>Engliſh</hi> in the Factory ſave one; and had the like Credit given him alſo by ſome of the Na<g ref="char:EOLhyphen"/>tives upon his Obligations to return to them by the firſt Conveyance, and render punctual Satisfaction to the Proprietors. But inſtead of an honeſt complyance with his Engagements, he finding at his Arrival at <hi>Bantam,</hi> the Ship <hi>Johannah</hi> in readineſs to return for <hi>Europe</hi> (as this <hi>Deponent</hi> was inform'd by Letters from thence) took his Paſſage on her for <hi>England,</hi> and ſo put a cheat upon them all, except Mr. <hi>Thomas James,</hi> the Chief, who had cautiouſly provided to have his Correſpondent demand his Mo<g ref="char:EOLhyphen"/>ney at the ſaid Port of <hi>Bantam,</hi> as this <hi>Deponent</hi> alſo had done, but un<g ref="char:EOLhyphen"/>happily entruſted him with his Pacquet, which (as this <hi>Deponent</hi> believes) he broke open; for he did treacherouſly conceal his Letter that gave thoſe Directions. And this <hi>Deponent</hi> further ſaith, That Captain <hi>Dyke,</hi> Com<g ref="char:EOLhyphen"/>mander of the <hi>Formoſa,</hi> at his return to <hi>Tonqueen</hi> aforeſaid, the next Seaſon, with this bad News of the ſaid FRANCIS DAVENPORT, told this <hi>Deponent</hi> and the reſt of the Factors, That he had been as troubleſome to him, as kna<g ref="char:EOLhyphen"/>viſh to them, in making continual Embroils and Diſturbances amongſt the Ships Company: And afterwards, before this <hi>Deponent</hi> left <hi>Tonqueen,</hi> they had an Account that he was return'd again to <hi>India,</hi> and had been at <hi>Bengall</hi> and <hi>Siam,</hi> where he was alſo notorious for his <hi>Villanous Practices:</hi> Nor did this <hi>Deponent</hi> ever hear his Name mention'd, without an <hi>Infamous Character.</hi>
+               </p>
+               <closer>
+                  <signed>George Taſh.</signed> 
+                  <dateline>
+                     <date>
+                        <hi>Jurat</hi> 9. <hi>die</hi> Maij 1689.</date>
+                  </dateline>
+                  <signed> 
+                     <hi>Coram me</hi> Rog. Meredith.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>The Depoſition of <hi>Winifred Blemair,</hi> of <hi>Ratcliff.</hi>
+               </head>
+               <p>
+                  <hi>WINIFRED BLEMAIR,</hi> Widow, maketh Oath, That in, or about the Year 1681. Capt. <hi>Thomas Jowls,</hi> and <hi>Francis Davenport,</hi> com<g ref="char:EOLhyphen"/>ing from Sea, took up their Lodgings in the Houſe of <hi>Winifred Blemair,</hi> near <hi>Ratcliff-Croſs;</hi> and ſome Weeks afterwards there was put into the <hi>Ga<g ref="char:EOLhyphen"/>zette</hi> an Advertiſement ſignifying, <hi>That One Mr.</hi> Davenport, <hi>a Gentleman reſiding in the Country, did thereby Declare, That he being grown Ancient, and having no Iſſue of his own, was intended to ſettle his Eſtate of two Hundred Pounds</hi> per Annum, <hi>on a Nephew of his, Nam'd</hi> Francis Davenport, <hi>whom he was therefore very deſirous to hear of.</hi> Whereupon the foreſaid DAVEN<g ref="char:EOLhyphen"/>PORT did affirm, That he was the Man, and on that occaſion requeſted the ſaid Capt. <hi>Jowls</hi> to lend him Money to provide himſelf with Cloaths, and bear his Expences down to his ſaid Uncle's Houſe; which Capt. <hi>Jowls</hi> ac<g ref="char:EOLhyphen"/>cordingly did ſupply him with, to the Amount of about 23 <abbr>
+                     <hi>l.</hi>
+                  </abbr>. After which he abſented himſelf from the Houſe for about the ſpace of a Month, and
+<pb n="11" facs="tcp:51910:6"/>then return'd again; ſaying, His Uncle wou'd be in <hi>London</hi> in two or three Days, when he invited the ſaid Capt. <hi>Jowls</hi> to accompany him to the City, to Viſit his ſaid Uncle as he pretended; but as they paſs'd through <hi>Cheap<g ref="char:EOLhyphen"/>ſide</hi> he took an opportunity to leave the Captain, who never ſaw, nor heard of him afterwards, nor did ever receive any Satisfaction for the foreſaid Money he lent him, ſolely in confidence of the Truth of what was put in<g ref="char:EOLhyphen"/>to the <hi>Gazette,</hi> which prov'd to be a meer Forgery contriv'd by DAVEN<g ref="char:EOLhyphen"/>PORT to defraud the Captain, as by further enquiry into the Matter he afterwards underſtood. And this <hi>Deponent</hi> do's further affirm, That ſhe has been inform'd the ſaid DAVENPORT did ſoon after he with-drew himſelf, as aforeſaid, make a Voyage to the <hi>Eaſt-Indie</hi>'s, were ſhe hears he now reſides, and continues ſuch <hi>Evil Practiſes,</hi> as he us'd here in <hi>England.</hi>
+               </p>
+               <closer>
+                  <signed>Sign'd <hi>Winifred W. B, Blemair.</hi>
+                  </signed> 
+                  <dateline>
+                     <date>
+                        <hi>Jurat</hi> 16. <hi>die</hi> Maij 1689.</date>
+                  </dateline>
+                  <signed> 
+                     <hi>Coram me Magr. Cancell. Jo. Edisbury.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>The Depoſition of Sir <hi>William Hedges</hi> Knight, and Mr. <hi>Robert Dowglaſs</hi> of <hi>London</hi> Merchants.</head>
+               <p>THeſe are to Certiſie all whom it may concern, That in time of our Reſidence in the Bay of <hi>Bengall</hi> in <hi>India,</hi> FRANCIS DAVENPORT did ſerve the <hi>Company</hi> in their Sloops in the River <hi>Ganges;</hi> where he was much complain'd of by all his Fellow-Servants, for a Perſon of a very <hi>Turbulent Spirit,</hi> making continual Diſturbances among 'em, and was there<g ref="char:EOLhyphen"/>fore Remov'd from one Veſſel to another, till at length he deſerted the Service, and was Entertain'd by one <hi>Davies</hi> an Interloper that then Re<g ref="char:EOLhyphen"/>ſided there, who Employ'd him as Pilot of a ſmall Veſſel, which through great Careleſneſs or Ignorance, he ſoon after caſt away in the Mouth of the River; and at the return of himſelf and the People that belong'd to her to the Town of <hi>Hughly,</hi> he was by ſome of the Company Accus'd to have taken an opportunity, after that diſaſter befel the Veſſel, to Murther the Supra-Cargo <hi>John Naylor,</hi> and poſſeſs himſelf of his Money, of which VIL<g ref="char:EOLhyphen"/>LANY there were many Circumſtances, which gave ſtrong Inducements to believe he was Guilty: But the Proof not being full and poſitive, he was no further Proſecuted for it.</p>
+               <p>We do alſo declare, That he Marryed in <hi>Bengall</hi> to a Native of that Place, and there was thoſe that did poſitively affirm he had another Wife in <hi>New-England;</hi> and by ſome that came from the South-Seas we had likewiſe In<g ref="char:EOLhyphen"/>telligence of his <hi>Fraudulent Actions</hi> in thoſe parts: So that he was lookt up<g ref="char:EOLhyphen"/>on by us all to be a moſt <hi>Profligate Scandalous Perſon;</hi> nor do we remember that we ever met with any Man that had a better Opinion of him.</p>
+               <closer>
+                  <signed>William Hedges. Robert Dowglaſs.</signed> 
+                  <dateline>
+                     <date>
+                        <hi>Jurat</hi> 17 <hi>die</hi> Maij, 1689.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Coram me</hi> Hen. Tulſe. </signed>
+               </closer>
+               <postscript>
+                  <p>Altho' there can need no further Confirmation of what theſe Two Gen<g ref="char:EOLhyphen"/>tlemen have Depos'd; yet I muſt not omit to intimate, That <hi>William John<g ref="char:EOLhyphen"/>ſon</hi>
+                     <abbr>Eſq</abbr> a Member of the Honourable Houſe of Commons, and Mr. <hi>Ed<g ref="char:EOLhyphen"/>ward Littleton,</hi> a Merchant of known Worth and Credit in this City, who were both Contemporaries in <hi>Bengall,</hi> with the <hi>Deponents</hi> can give the ſame Evidence, and have been pleas'd to promiſe me, They will readily do it if it be requiſite.</p>
+                  <closer>
+                     <signed>George White.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="12" facs="tcp:51910:7"/>
+               <head>The Depoſition of Mr. <hi>Francis Heath</hi> of <hi>London</hi> Merchant.</head>
+               <p>
+                  <hi>FRANCIS HEATH</hi> of <hi>London</hi> Merchant maketh Oath, That he was well Acquainted with Mr. <hi>Samuel White</hi> in the time that he Serv'd the King of <hi>Siam</hi> as <hi>Shawbander</hi> of <hi>Tenaſſary</hi> and <hi>Mergen,</hi> having been Employ'd by him as <hi>Supra-Cargo</hi> of ſeveral of his Ships, and ſo continued from about the beginning <hi>September</hi> 1684. to <hi>November</hi> 1686. In which time he made ſeveral Voyages to Fort St. <hi>George,</hi> and was always kindly received by the Governor and the Honourable Company's Servants, having free Liberty to Negotiate his Affairs in the ſaid Mr. <hi>White</hi>'s Name: And this <hi>Deponent</hi> fur<g ref="char:EOLhyphen"/>ther ſaith, That he alſo knew FRANCIS DAVENPORT, who was a Ser<g ref="char:EOLhyphen"/>vant to the ſaid Mr. <hi>White,</hi> and kept by him to Aſſiſt him in the multitude of Bufineſs that was upon him, for that he was very quick at his Pen; but he further Affirms, That the ſaid DAVENPORT had the General Cha<g ref="char:EOLhyphen"/>racter of being a <hi>Diſhoneſt</hi> and <hi>Faithleſs Fellow;</hi> as to his knowledge Mr. <hi>White</hi> was warn'd of by ſeveral of his Friends, and particularly by my Lord <hi>Phaulkon,</hi> in the hearing of this <hi>Deponent;</hi> but that he neuertheleſs kept him for the neceſſity of his Affairs, being very careful all the while this <hi>Deponent</hi> was there, not to intruſt him with any Matter which might give him opportunity to wrong him, as he alſo believes he never afterwards did: But this <hi>Deponent</hi> finds that the ſaid DAVENPORT has fram'd a large Hiſtory of Mr. <hi>White</hi>'s Actions, and preſented it, the Governor and Council of Fort St. <hi>George,</hi> which this <hi>Deponent</hi> has lately perus'd, and do's declare, That many things therein contain'd, are to his knowledge direct Lies and Forgeries; and he verily believes the whole thing was deſign'd by the ſaid DAVENPORT in Revenge of the Puniſhments he underſtands Mr. <hi>White</hi> inflicted on the ſaid DAVENPORT for his Rogueries after this <hi>Deponent</hi> came from thence.</p>
+               <p>The moſt material Paſſages this <hi>Deponent</hi> obſerves in the ſaid pretended Hiſtory, are, Firſt to Inſinuate that the ſaid Mr. <hi>White</hi> acted ſeveral things that were inconſiſtent with his Duty to His Majeſty, and prejudicial to the Honourable Company, which are baſe and ſcandalous Calumnies, from which this <hi>Deponent</hi> holds himſelf oblig'd in Juſtice to vindicate him. And he Affirms, That in all the Converſation he ever had with the ſaid Mr. <hi>White,</hi> he never heard one Word come from him, that did miſ-become a moſt Loyal and Obedient Subject. And for a further proof thereof, this <hi>Deponent</hi> Declares, That he has now by him a true Copy of a Remonſtrance, which the ſaid Mr. <hi>White</hi> did Preſent to my Lord <hi>Phaulkon,</hi> in <hi>Septemb.</hi> 86. wherein he expreſſes all poſſible Duty and Obſervance to the King's Majeſty, and Reſpect to the Honourable Company. And whereas he was then ap<g ref="char:EOLhyphen"/>prehenſive that the ſaid Honourable Company might take it amiſs, that the King of <hi>Siam</hi>'s War with <hi>Gulcondah,</hi> was manag'd chiefly by <hi>Engliſh-men,</hi> and thereupon procure His Majeſties Command for re-calling all his Sub<g ref="char:EOLhyphen"/>jects: He do's therefore poſitively Declare, That in ſuch caſe neither him<g ref="char:EOLhyphen"/>ſelf, nor any other <hi>Engliſh-man</hi> would dare at his Peril, to oppoſe or refuſe, but muſt diſcharge themſelves of their preſent Truſt under the King of <hi>Siam,</hi> and be punctual in paying Obedience to their Native Sovereign. And in the ſame Paper he offers to my Lord's Conſideration, that great care be taken in the management of the War, ſo as the leaſt diſguſt may not be given to the Honourable Company, nor any Injury accrue to them there<g ref="char:EOLhyphen"/>by. And whereas DAVENPORT do's endeavour to make Mr. <hi>White</hi> the
+<pb n="13" facs="tcp:51910:7"/>Author of the ſaid War, not only without, but againſt the King of <hi>Siam</hi>'s Command; I declare, that the contrary is apparently manifeſt in the firſt Paragraph of the ſaid Remonſtrance; and fully to convince all Impartial Men, that the foreſaid DAVENPORT has (without any regard to Truth) deſign'd in that Paper he calls his Hiſtory, maliciouſly to Traduce and A<g ref="char:EOLhyphen"/>ſperſe Mr. <hi>White;</hi> I affirm, That the foreſaid Remonſtrance in my hands, is Atteſted by the ſaid DAVENPORT, to be a true Copy of the Original deliver'd to my Lord <hi>Phaulkon.</hi>
+               </p>
+               <p>As to the Relation DAVENPORT makes of ſundry Paſſages, when Mr. <hi>White</hi> went up to <hi>Siam,</hi> this <hi>Deponent</hi> declares, That to his knowledge ſe<g ref="char:EOLhyphen"/>veral things therein are falſely and maliciouſly Miſrepreſented; for tho' tis true, that the Council which were joyn'd with Mr. <hi>White</hi> in the Manage<g ref="char:EOLhyphen"/>ment of the King's Affairs in <hi>Mergen,</hi> had made ſundry Complaints which occaſion'd his being ſent for up, yet upon the Examination thereof, he was not only clear'd, but it appearing that the Complaints were more grounded on the Revenge of thoſe from whom he had with ſome Severity exacted the King's Dues, than on any real Miſdemeanors in himſelf; they were by the King's Poſitive Command Fin'd, and Corporal Puniſhment Inflicted on ſeveral of them in preſence of this <hi>Deponent,</hi> and one of the Principal of them was Sentenc'd, and had Suffer'd Death had not Mr. <hi>White</hi> Charitably interpos'd and obtain'd his Pardon; and to manifeſt that Mr. <hi>White</hi>'s Credit and Eſteem in the Court of <hi>Siam,</hi> was rather augmented than leſſen'd by this Matter; this <hi>Deponent</hi> further declares, That after the ſaid Mr. <hi>White</hi> had excus'd himſelf from continuing in the City (tho' Invited to it by very great Emoluments and Honours) he did afterwards return to his former Employment at <hi>Mergen</hi> with greater Reſpect, and a much larger Commiſſion than he had before. This <hi>Deponent</hi> alſo thinks himſelf oblig'd to do right to Mr. <hi>Samuel White</hi> (who he hears is after all his Troubles and heavy Loſſes lately deceaſed at <hi>Bath:</hi>) Not only in Vindicating him from the Aſperſions endeavour'd to be caſt upon him by DAVENPORT, but alſo to tell the Truth of what he knows of the conſiderable Good Services he did to the <hi>Honourable Company,</hi> when Capt. <hi>Cook</hi> came to the Port of <hi>Mergen</hi> in the <hi>Golden Fleece</hi> in great Diſtreſs, this <hi>Deponent</hi> arriving there at the ſame time, and Affirms, That the ſaid Mr. <hi>White</hi> did not only give ſaid Capt. <hi>Cook</hi> the Aſſiſtance of his Slaves to help the unlading of his Ship without the leaſt Conſideration for their Labour; but did alſo at his own Charge fit up ſeveral Ware-houſes for the Receiving and Securing his Goods aſhore, and ſuppli'd him with all things neceſſary at the cheapeſt Rates, for the refitting his Ship, doing every thing with that Chearfulneſs and Forwardneſs, as it 't had been his own Concern.</p>
+               <p>As to the latter part of DAVENPORT's Hiſtory, wherein he pretends to give an Account of the Paſſages at <hi>Mergen,</hi> after Capt <hi>Weltden</hi>'s Arrival there, endeavouring to impute the Deaths of thoſe <hi>Engliſhmen</hi> that were Maſſacr'd, to Mr. <hi>White,</hi> this <hi>Deponent</hi> affirms, That he do's verily believe that the whole thing is entirely <hi>Falſe and Forged,</hi> and that the Maſſacre of all thoſe Men was really and truly occaſion'd by Capt. <hi>Welden</hi>'s Indirect and Imprudent Acting, to which he was inſtigated by the <hi>Wicked Counſel</hi> of the ſaid DAVENPORT, as has been more at large related in the Paper pre<g ref="char:EOLhyphen"/>ſented to the <hi>Honourable Houſe of Commons,</hi> which this <hi>Deponent</hi> do's believe is a True Account thereof, and was taken out of a Diary kept by Mr. <hi>White</hi> of all thoſe Tranſactions, as this <hi>Deponent</hi> ſaw and read, when he was with him at <hi>Kingſale</hi> in <hi>Ireland,</hi> in <hi>October</hi> laſt.</p>
+               <closer>
+                  <signed>Francis Heath.</signed> 
+                  <dateline>
+                     <date>
+                        <hi>Jurat</hi> 15 <hi>die</hi> Maij 1689.</date>
+                  </dateline>
+                  <signed>Coram me Magr. Cancell. S. Keck.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <pb n="14" facs="tcp:51910:8"/>
+               <head>The Depoſition of Mr. <hi>Robert Harbin</hi> of <hi>London</hi> Merchant.</head>
+               <p>THeſe are to certifie all whom it may concern, That about the Month of <hi>June, Anno</hi> 1686. Mr. <hi>Samuel White,</hi> who then Serv'd the King of <hi>Siam</hi> as his <hi>Shawbander</hi> of <hi>Tenaſſary</hi> and <hi>Mergen,</hi> came up to the City <hi>Ju<g ref="char:EOLhyphen"/>dicah,</hi> where I then Reſided, and brought with him FRANCIS DAVENPORT whom he had ſometime before taken into his Service, which was very much wonder'd at by ſeveral perſons there, who had formerly had ſome know<g ref="char:EOLhyphen"/>ledge of the ſaid <hi>Davenport,</hi> and did in my hearing, caution Mr. <hi>White</hi> to be careful of him, for that he had prov'd a moſt falſe and treacherous Vil<g ref="char:EOLhyphen"/>lain to thoſe who had been ſo unfortunate to confide in him.</p>
+               <p>And whereas there is a Book lately publiſhed in the ſaid <hi>Davenport</hi>'s name, charging Mr. <hi>White</hi> with many irregular and unjuſtifiable actions; I declare, That I do really believe the ſaid <hi>Davenport</hi> has in that very thing prov'd himſelf deſerving that ill character Mr. <hi>White</hi> had before receiv'd of him, in endeavouring by moſt malicious miſrepreſentations to abuſe and injure him: And particularly, as to what he endeavours to inſinuate to the ſaid Mr. <hi>White</hi>'s prejudice, concerning the occaſion of his being ſummon'd up to Court, and of what paſs'd in that Affair, I declare, that great part of what he alledges, is falſe and ſcandalous, and I affirm, that Mr. <hi>White</hi> did ſo effectually clear himſelf from all matters objected againſt him, that rais'd him higher in the King's good Opinion, and he afterwards return'd to his Charge with more credit and reputation then he enjoy'd before; and to my certain knowledge, he continued in very great eſteem wirh the King of <hi>Siam,</hi> and his Chief Mi<g ref="char:EOLhyphen"/>niſter, till I left the Place, which was but few Moneths before that fatal diſa<g ref="char:EOLhyphen"/>ſter happen'd at <hi>Mergen.</hi>
+               </p>
+               <closer>
+                  <signed> Robert Harbin.</signed> 
+                  <dateline>
+                     <date>
+                        <hi>Jurat'</hi> 21 <hi>die</hi> Maij 1689.</date>
+                  </dateline>
+                  <signed>Coram me Magr' Cancel' S. Keck.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>The Depoſition of Mr. <hi>Thomas Dennet</hi> of <hi>London</hi>
+               </head>
+               <p>
+                  <hi>THOMAS DENNET</hi> maketh Oath, That he went to <hi>Mergen</hi> in the <hi>Curtana, Anthony Weltden</hi> Commander, at which place he firſt ſaw <hi>Francis Davenport,</hi> who, as he underſtood, had ſometime before been put out of Mr. <hi>Sam. White</hi>'s Service for ſome fraudulent Actions he had been found guilty of, for which he heard Mr. <hi>White</hi> had publickly whip'd him, and impriſon'd him, and he had a general ill Character amongſt all the <hi>Engliſh</hi> at that place.</p>
+               <p>This <hi>Deponent</hi> doth alſo affirm, That at the <hi>Curtana</hi>'s arrival there, Mr. <hi>White</hi> did receive the Commander and all the People with very friendly kindneſs, and ſupply'd his Ship with abundance of Proviſions, and as he un<g ref="char:EOLhyphen"/>derſtood from thoſe that were aſhore at the publiſhing of His Majeſties Pro<g ref="char:EOLhyphen"/>clamation for recalling all his Subjects, the ſaid Mr. <hi>White</hi> and all under him, did readily and chearfully expreſs their obedience thereto, and every thing ſeem'd to look very well till the foreſaid <hi>Davenport</hi> did ſlily inſinuate himſelf into a private intimacy with Captain <hi>Weltden,</hi> telling him many falſe ſtorys, and by his evil advice prevail'd with him to ſeize Mr. <hi>White</hi>'s Ship the <hi>Reſo<g ref="char:EOLhyphen"/>lution,</hi> and to break up the Piles that were for the defence of the Port, which did ſo incenſe the Inhabitants, that they took the opportunity to aſſault the <hi>Engliſh</hi> on the Shore, and kill'd near ſixty of them, Mr. <hi>White</hi> and Captain <hi>Weltden</hi> very narrowly eſcaping, at which time this <hi>Deponent</hi> was on board the <hi>Curtana,</hi> and took notice, that the aforeſaid <hi>Davenport,</hi> as ſoon as he heard the ſad news, did earneſtly perſwade the Ships Company to cut the Cables and make haſte away, as they accordingly did, and went as far as the Tide would permit them, when they were forc'd to come to an Anchor, and in this <hi>Interim</hi> Mr. <hi>White</hi> and ſent the ſaid Captain were got aboard the <hi>Reſolution,</hi> about two Leagues diſtant, and ſent the ſaid Ships Boat for the Doctor to dreſs the Cap<g ref="char:EOLhyphen"/>tains wouhds, with order for them to bring the <hi>Curtana</hi> nearer the <hi>Reſolution,</hi>
+                  <pb n="15" facs="tcp:51910:8"/>but the ſaid <hi>Davenport</hi> inſtigated the Men to take no notice of the Captains Commands, but to proceed without any delays, and he wou'd carry them to a place where they might be provided with Victuals and all things elſe that they wanted; and having got one of the Mates and Boatſwain to join with him, they had wrought upon moſt of the Ships Company, and did en<g ref="char:EOLhyphen"/>deavour to follow the ſaid <hi>Davenports</hi> advice, in running away without the Commander, which they had certainly done, if the Wind had not prevented, and gave the Captain time to overtake them in the <hi>Reſolutions</hi> Long-Boat, and when the Captain was got aboard, being by all theſe ſad effects, ſenſible how he had been betray'd by the Treachery and Villany of <hi>Davenport,</hi> he ex<g ref="char:EOLhyphen"/>preſs'd his juſt Anger againſt him, and wou'd no more ſuffer him to come into his company, whereupon the ſaid <hi>Davenport</hi> ſet himſelf cloſely to writ<g ref="char:EOLhyphen"/>ing, as this <hi>Deponent</hi> obſerv'd, and do's verily believe, he then employ'd him<g ref="char:EOLhyphen"/>ſelf in framing that falſe Account has been lately publiſh'd, in hopes thereby to hide his own Villany, and throw the Guilt thereof on Mr. <hi>White</hi> and Cap<g ref="char:EOLhyphen"/>tain <hi>Weltden.</hi>
+               </p>
+               <closer>
+                  <signed> Thomas Dennet.</signed> 
+                  <dateline>
+                     <date>
+                        <hi>Jur'</hi> 18 <hi>die</hi> Maij 1689.</date>
+                  </dateline>
+                  <signed>Coram me Magr' Cancel' S. Keck.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>The Depoſition of <hi>William Smith</hi> Maſter, and <hi>Hugh Wilkin<g ref="char:EOLhyphen"/>ſon</hi> Mariner, on Board the Ship <hi>Reſolution.</hi>
+               </head>
+               <p>
+                  <hi>WILLIAM SMITH</hi> Maſter of the Ship <hi>Reſolution,</hi> and <hi>Hugh Wilkiſon</hi> Mariner on board the ſaid Ship, make Oath, That they did both ſerve the King of <hi>Siam,</hi> under the command and direction of Mr. <hi>Samuel White, Shawbander</hi> of <hi>Tenaſſary</hi> and <hi>Mergen,</hi> And they declare and affirm, That the ſaid Mr. <hi>White</hi> did ſo behave himſelf in that employment, that he was generally well-belov'd both by the Pepple of the Country and the <hi>Euro<g ref="char:EOLhyphen"/>peans</hi> of ſeveral Nations that were in the ſaid Service; and whereas there is a Book lately Printed in the name of <hi>Francis Davenport,</hi> called, <hi>An Hiſtory of Mr.</hi> White's <hi>Actions,</hi> Theſe <hi>Deponents</hi> declare, That they have read over the ſaid Book, in which they find many things, that to their certain knowledge are falſe and ſcandalous Lies, as they will more particularly evidence, if it be required: Nor do they know that the ſaid Mr. <hi>White</hi> was guilty of any one lieve, that the ſaid <hi>Davenport</hi> (who was by all at that place, and where-ever elſe theſe <hi>Deponents</hi> have heard of his Name, accounted a very treacherous Perſon) did frame thoſe falſities of Revenge and Malice to the ſaid Mr. <hi>White,</hi> who ſometime before had publickly whip'd and impriſon'd the ſaid <hi>Daven<g ref="char:EOLhyphen"/>port,</hi> upon diſcovery of a fraudulent contrivance of his to have cheated him of a conſiderable ſum of Mony.</p>
+               <closer>
+                  <signed> William Smith. Hugh Wilkinſon.</signed> 
+                  <dateline>
+                     <date>
+                        <hi>Jurat'</hi> 20 <hi>die</hi> Maij 1689.</date>
+                  </dateline>
+                  <signed>Coram me Magn' Cancel'. S. Keck.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>The Depoſition of <hi>Phillip Gamon</hi> Purſer of the Ship <hi>Reſolution.</hi>
+               </head>
+               <p>
+                  <hi>PHILLIP GAMON</hi> maketh Oath, That he was a ſervant to the King of <hi>Siam,</hi> under the Command of Mr. <hi>Samuel White, Shabander</hi> of <hi>Tenaſſary</hi> and <hi>Mergen,</hi> and that he there knew <hi>Francis Davenport</hi> a ſervant to the ſaid Mr. <hi>White,</hi> which ſaid <hi>Davenport</hi> was a Perſon of a very bad Reputation, amongſt all men on that place; and this <hi>Deponent</hi> is well aſſur'd, that Mr. <hi>White</hi> was not unacquainted therewith, but however, he kept him becauſe he was ingenious at his Pen, and ſo very uſeful in the multitude of buſineſs that Mr. <hi>White</hi> had in that great Employment, till about the end of <hi>March</hi> 87. when he was detected in a villainous cheat he wou'd have put upon Mr. <hi>White,</hi> (as this <hi>Deponent</hi> was inform'd, and verily believes) for which and ſome other miſdemeanours he was publickly whip'd and impriſon'd, and re<g ref="char:EOLhyphen"/>main'd
+<pb n="16" facs="tcp:51910:9"/>under confinement till few days before the <hi>Curtana's</hi> Arrival, when he repair'd on board the ſaid Ship, and having by degrees inſinuated himſelf in<g ref="char:EOLhyphen"/>to an intimacy with Captain <hi>Weltden,</hi> he did daily labour to ſcandalize and miſrepreſent the ſaid Mr. <hi>White,</hi> and create jealouſies concerning him, which he did at length ſo far effect, that the ſaid Captain was wrought upon to break his word with the Natives, and commit ſome Hoſtilities on the Port, as the ſaid Captain did, to this Deponents knowledge, with much ſeeming relu<g ref="char:EOLhyphen"/>ctancy, afterwards confeſs, and this <hi>Deponent</hi> do's verily believe, that thoſe raſh and imprudent actions to which the ſaid Captain was inſtigated by <hi>Da<g ref="char:EOLhyphen"/>venport,</hi> did provoke the <hi>Siamers</hi> to that bloody Aſſault wherein ſo many of His Majeſties Subjects loſt their Lives: And whereas there is a Book lately Printed in the ſaid <hi>Davenport</hi>'s Name, wherein he endeavours to make Mr. <hi>White</hi> the occaſion of that Bloudſhed, and accuſes him of many other high Crimes and Miſdemeanors, this <hi>Deponent</hi> do's declare, that many things there<g ref="char:EOLhyphen"/>in contain'd, are to his knowledge falſe and forged: Nor do's he know or be<g ref="char:EOLhyphen"/>lieve Mr. <hi>White</hi> was guilty of any of thoſe things wherewith he charges him; but that he fram'd thoſe Papers in Revenge and Malice againſt Mr. <hi>White</hi> with<g ref="char:EOLhyphen"/>out any regard to Truth.</p>
+               <closer>
+                  <signed>Philip Gamon.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="conclusion">
+            <p>AND now I hope I have fully perform'd what I undertook, in proving by a Cloud of <hi>unexceptionable Witneſſes,</hi> that this DAVENPORT is one of the MOST NOTORIOUS ROGUES <hi>in Nature.</hi> I have trac'd him through ſeveral parts of the World, and find him the ſame MATCHLESS VILLAIN in all Climates: Nor have I made it leſs apparent, That <hi>Revenge</hi> and <hi>Malice</hi> dictated all thoſe Forgeries wherewith he has endeavour'd to aſ<g ref="char:EOLhyphen"/>perſe and traduce my Brother.</p>
+            <p>And now after all, I make this offer to the EDITOR of his Hiſtory, That if he can diſprove any of the Teſtimonies I have produc'd; Or bring one ſin<g ref="char:EOLhyphen"/>gle valuable Evidence, who will on good experience affirm, that DAVEN<g ref="char:EOLhyphen"/>PORT deſerves a better Character, I will ſtill give up the Cauſe: But if nei<g ref="char:EOLhyphen"/>ther of theſe be accepted, nor the thing retracted, I muſt then ſay that the EDITOR as well as the HISTORIAN is quite paſt <hi>Shame:</hi> And I'm ſure, I may conjoyn the <hi>Abettor</hi> ELIHU YALE with them, becauſe I well know he is at the bottom of this <hi>Black Buſineſs;</hi> for when he perceiv'd he cou'd not by all his Stratagems, trappan my Brother into his power, he order'd the <hi>Curtana Frigat</hi> out in ſearch of him under the Command of <hi>Fraſier,</hi> one of his Counſellors, with Commiſſion to bring him in <hi>dead or alive;</hi> but that alſo proving fruitleſs by my Brothers being proceeded on his Voyage to <hi>Europe,</hi> he had then no other way but to abett and forward DAVENPORTS FOR<g ref="char:EOLhyphen"/>GERIES <hi>for the Reaſons I have before mentioned;</hi> And tho I can prove by a <hi>ſober ingenious Gentleman, Mr. George Petty,</hi> that DAVENPORT was at that time and place eſteem'd, (as every where elſe) a moſt INFAMOUS FELLOW, Yet for his encouragement in this matter, he was permitted to attach and recover from Mr. <hi>Tho. Lucas,</hi> my Brothers Correſpondent, about 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> on no other evidence than his <hi>ſingle Oath,</hi> that my Brother was ſo much his Debtor.</p>
+            <p>THus have DAVENPORT, HIS ABETTOR, and HIS EDITOR conſpir'd againſt the <hi>Life, Credit</hi> and <hi>Eſtate</hi> of my Brother; And tho God has ſo pleas'd, that they have contributed to the ſhortning of his days; yet I doubt not but I ſhall reſcue his Reputation from <hi>All their Calumnies.</hi>
+            </p>
+            <p>And as to his Eſtate which has been <hi>ſo barbarouſly Deſtroy'd and rifled</hi> by the <hi>Eaſt-India Company:</hi> I aſſure the EDITOR, that tho he pleaſes himſelf, in ſaying, he fears not what the <hi>Houſe of Commons can do,</hi> becauſe they are no <hi>Court of Judicature,</hi> and hopes at laſt to tire me out <hi>by a tedious and expenſive Law-ſuit:</hi> Yet I will renew my humble Supplications to <hi>Our Honourable Repreſentatives,</hi> confiding, that ſo <hi>deplorable a Caſe</hi> will move them to interpoſe for our <hi>Relief:</hi> Nor will I doubt, that they who have aſſerted our <hi>Rights,</hi> and defended our <hi>Liberties</hi> againſt <hi>Him</hi> who was of late the great<g ref="char:EOLhyphen"/>eſt Man in the Kingdoms<g ref="char:punc">▪</g> can want Power to Govern and Correct A DISOBE<g ref="char:EOLhyphen"/>DIENT, STUBBORN, and UNGRACIOUS CHILD.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
